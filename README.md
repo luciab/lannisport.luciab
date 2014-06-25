@@ -1,7 +1,7 @@
 Lannisport is a [Pelican] [1] theme. It can be seen live at http://iovene.com/.
 
 ## Preview
-![] [https://github.com/luciab/lannisport.luciab/blob/master/preview.png]
+![] [2]
 
 ## Variables
 
@@ -24,7 +24,8 @@ Some variables that could be used:
 
 ## License
 
-This theme is licensed under the [GPL v3] [2] license.
+This theme is licensed under the [GPL v3] [3] license.
 
   [1]: https://github.com/getpelican/pelican/ "Pelican"
-  [2]: https://raw.github.com/siovene/lannisport/master/LICENSE
+  [2]: https://github.com/luciab/lannisport.luciab/blob/master/preview.png
+  [3]: https://raw.github.com/siovene/lannisport/master/LICENSE
