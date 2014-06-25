@@ -27,5 +27,5 @@ Some variables that could be used:
 This theme is licensed under the [GPL v3] [3] license.
 
   [1]: https://github.com/getpelican/pelican/ "Pelican"
-  [2]: https://github.com/luciab/lannisport.luciab/blob/master/preview.png
+  [2]: https://raw.github.com/luciab/lannisport.luciab/master/preview.png "Preview"
   [3]: https://raw.github.com/siovene/lannisport/master/LICENSE
