@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-image: url(../img/bg.png);
+    //background-image: url(../img/bg.png);
     border-top: .5rem solid #DC143C;
     color: #444;
     min-height: 100%;
@@ -113,7 +113,8 @@ hr {
 }
 
 #sidebar {
-    background-image: url(../img/gray_sand.png);
+    //background-image: url(../img/gray_sand.png);
+    background-color: #000;
     border-top: 0.5rem solid #DC143C;
     padding: 1.5rem 2rem 1rem;
     margin-top: -0.5rem;
