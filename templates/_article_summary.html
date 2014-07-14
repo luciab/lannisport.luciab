@@ -1,8 +1,7 @@
 {% extends '_article_base.html' %}
 
 {% block article_content %}
-    <div class="article-summary">
-        <!-- show full content instead of summary -->
-        {{article.content}}
-    </div>
+ <div class="article-summary">
+  <a href="{{article.url}}">{{article.summary}}</a>
+ </div>
 {% endblock %}

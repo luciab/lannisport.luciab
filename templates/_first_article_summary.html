@@ -1,7 +1,7 @@
 {% extends '_article_base.html' %}
 
 {% block article_content %}
-    <div id="first-article">
-        {{article.content}}
-    </div>
+ <div id="first-article">
+  <a href="{{article.url}}">{{article.summary}}</a>
+ </div>
 {% endblock %}
